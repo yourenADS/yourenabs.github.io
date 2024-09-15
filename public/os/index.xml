@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OS on </title>
+    <link>//localhost:1313/os/</link>
+    <description>Recent content in OS on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/os/help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/os/help/</guid>
+      <description>&lt;p&gt;dasgg&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/os/os/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/os/os/</guid>
+      <description>&lt;p&gt;hello&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/os/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/os/test/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;hello&lt;/h1&gt;&#xA;&lt;p&gt;first&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
